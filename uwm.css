@@ -1,0 +1,28 @@
+.links {
+list-style-type: none;
+padding: 0;
+}
+
+.uwm-header {
+background-color: palevioletred;
+padding: 40px;
+}
+
+.uwm-main-content {
+background-color: thistle;
+padding: 40px;
+}
+
+.uwm-footer {
+background-color: pink;
+padding: 40px;
+}
+
+body {
+margin: 0;
+}
+
+.wrapper {
+max-width: 100px;
+margin: auto;
+}
